@@ -188,6 +188,10 @@ previous example too. This shortens the previous version a bit:
 
 <code>AtomContainerAddAtomsAndBonds2</code>
 
+A third alternative takes advantage of the `newAtom()` and `newBond()` methods:
+
+<code>AtomContainerAddAtomsAndBonds3</code>
+
 ### Iterating over atoms and bonds
 
 The <class>IAtomContainer</class> comes with convenience methods to iterate over atoms
