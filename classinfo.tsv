@@ -3,11 +3,8 @@ AllRingsFinder	org.openscience.cdk.ringsearch	standard
 AromaticAtomsCountDescriptor	org.openscience.cdk.qsar.descriptors.molecular	qsarmolecular
 Aromaticity	org.openscience.cdk.aromaticity	standard
 AtomContainerManipulator	org.openscience.cdk.tools.manipulator	standard
-AtomContainerRenderer	org.openscience.cdk.renderer	renderbasic
 AtomCountDescriptor	org.openscience.cdk.qsar.descriptors.molecular	qsarmolecular
 AtomTypeManipulator	org.openscience.cdk.tools.manipulator	standard
-AWTDrawVisitor	org.openscience.cdk.renderer.visitor	renderawt
-AWTFontManager	org.openscience.cdk.renderer.font	renderbasic
 BasicAtomGenerator	org.openscience.cdk.renderer.generators	renderbasic
 BasicBondGenerator	org.openscience.cdk.renderer.generators	renderbasic
 BasicSceneGenerator	org.openscience.cdk.renderer.generators	renderbasic
